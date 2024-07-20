@@ -65,7 +65,4 @@ storing shortened links.
 - [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me as a reference for CSS Flexbox Properties
 - [Shortcode API Documentation](https://shrtco.de/docs/) - This helped me in getting information about Shortcode API.
 
-## Author
 
-- Frontend Mentor - [@suraj-singh127](https://www.frontendmentor.io/profile/suraj-singh127)
-- Twitter - [@SurajSi75026934](https://twitter.com/SurajSi75026934)
